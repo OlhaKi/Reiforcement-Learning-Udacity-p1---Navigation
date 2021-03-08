@@ -23,7 +23,7 @@ The report clearly describes the learning algorithm, along with the chosen hyper
     LR   0.0005
     UPDATE_EVERY   4
 
-## Model architectures for any neural networks:
+## Model architectures for neural network:
 class QNetwork(nn.Module):
     """Actor (Policy) Model."""
 
@@ -50,5 +50,6 @@ class QNetwork(nn.Module):
         return self.fc3(x)
 ## Performance of the agent
    # Plot of Rewards
+   
    # Testing my model:
 ## Ideas for Future Work:
