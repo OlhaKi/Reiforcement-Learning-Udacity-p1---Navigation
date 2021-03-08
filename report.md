@@ -53,4 +53,7 @@ class QNetwork(nn.Module):
    ![GitHub Logo](/Images/p1_1.png)
    # Testing my model:
    ![GitHub Logo](/Images/p1_2.png)   
+The complete set of results and steps can be found in my notebook   
 ## Ideas for Future Work:
+1. Implementation Double Deep Q Networks with Prioritized Experience Replay
+2. I am planning to train DQN with pixels environment.
