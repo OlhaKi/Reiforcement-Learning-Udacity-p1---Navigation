@@ -1,5 +1,5 @@
-Project 1 : Navigation
-Examine the State and Action Spaces
+### Project 1 : Navigation
+##Examine the State and Action Spaces
 
 The simulation contains a single agent that navigates a large environment. At each time step, it has four actions at its disposal:
 
