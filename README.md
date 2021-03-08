@@ -6,7 +6,7 @@
 
 ### Introduction
 
-For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  
+This project contains a solution to the first project of Udacity Deep Reinforcement Learning.  
 
 ![Trained Agent][image1]
 
