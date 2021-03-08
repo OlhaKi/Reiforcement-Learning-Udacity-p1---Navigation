@@ -50,6 +50,6 @@ class QNetwork(nn.Module):
         return self.fc3(x)
 ## Performance of the agent
    # Plot of Rewards
-   
+   ![GitHub Logo](/Images/p1_1.png)
    # Testing my model:
 ## Ideas for Future Work:
