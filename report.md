@@ -1,4 +1,4 @@
-### Project 1 : Navigation
+#### Project 1 : Navigation
 ## Examine the State and Action Spaces
 
 The simulation contains a single agent that navigates a large environment. At each time step, it has four actions at its disposal:
@@ -52,4 +52,5 @@ class QNetwork(nn.Module):
    # Plot of Rewards
    ![GitHub Logo](/Images/p1_1.png)
    # Testing my model:
+   ![GitHub Logo](/Images/p1_2.png)   
 ## Ideas for Future Work:
