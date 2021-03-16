@@ -51,7 +51,7 @@ The agent is trained using Deep Q-Learning algorithm.
 
 ### My ideas for future work
 
-This project used the basic DQN algorithm. It can be improved by applying the following methods:
+This project used the basic [DQN algorithm](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf). It can be improved by applying the following methods:
 
     double DQN
     dueling DQN
