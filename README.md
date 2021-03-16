@@ -39,9 +39,9 @@ The task is episodic, and in order to solve the environment, your agent must get
 You can see how to train the agent in Jupyter notebook `Navigation.ipynb`. To run the notebook, first start up Jupyter server with the following command:
 
 
-conda activate drlnd
+    - conda activate drlnd
 
-jupyter notebook
+    - jupyter notebook
 
 It will open up the your web browser. From the file list, open up `Navigation.ipynb` notebook. Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
 The successfully trained DQN parameters is saved in the file `checkpoint.pth`. 
