@@ -40,11 +40,10 @@ You can see how to train the agent in Jupyter notebook `Navigation.ipynb`. To ru
 
 
 conda activate drlnd
+
 jupyter notebook
 
-It will open up the your web browser.
-
-From the file list, open up `Navigation.ipynb` notebook. Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+It will open up the your web browser. From the file list, open up `Navigation.ipynb` notebook. Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
 The successfully trained DQN parameters is saved in the file `checkpoint.pth`. 
 
 ### (Optional) Challenge: Learning from Pixels
