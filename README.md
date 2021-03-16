@@ -45,7 +45,7 @@ jupyter notebook
 It will open up the your web browser.
 
 From the file list, open up `Navigation.ipynb` notebook. Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
-The successfully trained DQN parameters is saved in the file p1_dqn_agent.pth. 
+The successfully trained DQN parameters is saved in the file `checkpoint.pth`. 
 
 ### (Optional) Challenge: Learning from Pixels
 
