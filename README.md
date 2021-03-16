@@ -46,7 +46,7 @@ You can see how to train the agent in Jupyter notebook `Navigation.ipynb`. To ru
 It will open up the your web browser. From the file list, open up `Navigation.ipynb` notebook. Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
 The successfully trained DQN parameters is saved in the file `checkpoint.pth`. 
 
-### My ideas for Future Work
+### My ideas for future work
 
 This project used the basic DQN algorithm. It can be improved by applying the following methods:
 
