@@ -36,7 +36,16 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ### Instructions
 
-Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+You can see how to train the agent in Jupyter notebook `Navigation.ipynb`. To run the notebook, first start up Jupyter server with the following command:
+
+
+conda activate drlnd
+jupyter notebook
+
+It will open up the your web browser.
+
+From the file list, open up `Navigation.ipynb` notebook. Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+The successfully trained DQN parameters is saved in the file p1_dqn_agent.pth. 
 
 ### (Optional) Challenge: Learning from Pixels
 
