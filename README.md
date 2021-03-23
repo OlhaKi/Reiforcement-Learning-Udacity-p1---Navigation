@@ -4,7 +4,7 @@
 
 # Project 1: Navigation
 
-Dependencies
+### Dependencies
 
 To set up your python environment to run the code in this repository, follow the instructions below.
 
