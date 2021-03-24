@@ -4,39 +4,6 @@
 
 # Project 1: Navigation
 
-### Dependencies
-
-To set up your python environment to run the code in this repository, follow the instructions below.
-
-    1. Create (and activate) a new environment with Python 3.6.
-        - Linux or Mac:
-
-    conda create --name drlnd python=3.6
-    source activate drlnd
-
-        - Windows:
-
-    conda create --name drlnd python=3.6 
-    activate drlnd
-
-    2. Follow the instructions in this repository to perform a minimal install of OpenAI gym.
-        Next, install the classic control environment group by following the instructions here.
-        Then, install the box2d environment group by following the instructions here.
-
-    3. Clone the repository (if you haven't already!), and navigate to the python/ folder. Then, install several dependencies.
-
-        git clone https://github.com/udacity/deep-reinforcement-learning.git
-        cd deep-reinforcement-learning/python
-        pip install .
-
-    4. Create an IPython kernel for the drlnd environment.
-
-        python -m ipykernel install --user --name drlnd --display-name "drlnd"
-
-    5. Before running code in a notebook, change the kernel to match the drlnd environment by using the drop-down Kernel menu.
-
-
-
 ### Introduction
 
 This project contains a solution to the first project of Udacity Deep Reinforcement Learning.  
@@ -69,14 +36,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ### Instructions
 
-You can see how to train the agent in Jupyter notebook `Navigation.ipynb`. To run the notebook, first start up Jupyter server with the following command:
-
-
-    > conda activate drlnd
-
-    > jupyter notebook
-
-It will open up the your web browser. From the file list, open up `Navigation.ipynb` notebook. Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
 The successfully trained DQN parameters is saved in the file `checkpoint.pth`. 
 ### Learning Algorithm
 
