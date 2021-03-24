@@ -34,6 +34,40 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 2. Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file. 
 
+### Environment
+#### Install drlnd environment
+1. Create (and activate) a new environment with Python 3.6.
+```console
+$ conda create --name drlnd python=3.6
+$ source activate drlnd
+```
+
+2. Follow the instructions in this repository to perform a minimal install of [OpenAI gym](https://github.com/openai/gym).
+```console
+$ pip install gym
+```
+
+On Ubuntu 18.04:
+```console
+$ sudo apt install -y python3-dev zlib1g-dev libjpeg-dev cmake swig python-pyglet python3-opengl \
+    libboost-all-dev libsdl2-dev libosmesa6-dev patchelf ffmpeg xvfb
+```
+
+3. Clone the repository (if you haven't already!), and navigate to the python/ folder.
+   Then, install several dependencies.
+```console
+$ git clone https://github.com/udacity/deep-reinforcement-learning.git
+$ cd deep-reinforcement-learning/python
+$ pip install .
+```
+
+4. Create an IPython kernel for the drlnd environment.
+```console
+$ python -m ipykernel install --user --name drlnd --display-name "drlnd"
+```
+
+5. Before running code in a notebook, change the kernel to match the drlnd environment
+   by using the drop-down Kernel menu.
 ### Instructions
 
 Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
