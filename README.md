@@ -68,9 +68,11 @@ $ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
 The successfully trained DQN parameters is saved in the file `checkpoint.pth`. 
+
+
 ### Learning Algorithm
 
-The agent is trained using Deep Q-Learning algorithm.
+The agent is trained using Deep Q-Learning algorithm(see Report.md).
 
 ### My ideas for future work
 
