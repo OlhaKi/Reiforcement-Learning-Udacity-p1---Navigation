@@ -14,7 +14,8 @@ The goal of our agent is to collect as many yellow bananas as possible while avo
 
 My project  is adapting  the code from the exercise(Deep Q-Networks lesson)  to the project.
 The report clearly describes the learning algorithm, along with the chosen hyperparameters. It also describes the model architectures for any neural networks.
-## Learning algorithm - Deep Q-Networks
+## Learning algorithm - Deep Q-Learning with Experience Replay
+![AlgoScheme](/Images/dqn_algorithm.png)
 ## Chosen hyperparameters:
     BUFFER_SIZE   100000
     BATCH_SIZE   64
